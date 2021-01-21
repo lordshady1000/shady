@@ -5,7 +5,7 @@
 .clr{clear: both;}
 #body{
     background-color: gray;
-    background-image: url(images/netflix.jpg);
+    background-image: url(../images/netflix.jpg);
     background-position: center;
     background-size: cover;
     background-blend-mode: multiply;
